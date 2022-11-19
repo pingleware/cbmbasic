@@ -1,3 +1,4 @@
+#!/usr/bin/env cbmbasic
 1 REM
 2 REM From "Build your own Expert System https://www.amazon.com/dp/0905104412
 3 REM
